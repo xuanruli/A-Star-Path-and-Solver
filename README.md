@@ -1,5 +1,5 @@
 # A Star Grid Path and Puzzle Solver
-A Python implementation of the sliding puzzle game with AI solvers using IDDFS and A* algorithms.
+An implementation of the sliding puzzle game with AI solvers using IDDFS and A* algorithms.
 ## Features
 A star, iterative deepening dfs, dijkstra, Heuristic
 
